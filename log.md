@@ -18,3 +18,20 @@
 
 **Link to work:** [Alexa Skills Challenge: Alexa Conversations](https://alexaconversations.devpost.com/)
 
+### Day 2: August 18, 2020
+##### 
+
+**Today's Progress**: Did some research for my simplified virtual camera project for MacOS.
+
+**Thoughts:** Google was not my friend but I did finaly find info on the CoreMediaIO-DAL which has some great examples.
+
+**Link to work:** 
+
+### Day 3: August 19, 2020
+##### 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
