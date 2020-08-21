@@ -30,7 +30,17 @@
 ### Day 3: August 19, 2020
 ##### 
 
-**Today's Progress**:  
+**Today's Progress**: Tried to get a Wacom tablet to work on my daughter's Chromebook. 
+
+**Thoughts:** More of a tech support day but I did learn a lot about the Linux virtualization feature and some of the diferences with that and normal stock linux.
+
+**Link for reference:** 
+https://www.quora.com/Can-I-use-a-Wacom-Intuo-with-my-Chromebook
+
+### Day 4: August 20, 2020
+##### 
+
+**Today's Progress**: Alexa Skills Challenge for Alexa Conversations
 
 **Thoughts:** 
 
