@@ -42,6 +42,40 @@ https://www.quora.com/Can-I-use-a-Wacom-Intuo-with-my-Chromebook
 
 **Today's Progress**: Alexa Skills Challenge for Alexa Conversations
 
+**Thoughts:** Comleted basic setup. Need to work out responses.
+
+**Link to work:** NA
+
+### Day 5: August 21, 2020
+##### 
+
+**Today's Progress**: skipped day
+
+### Day 6: August 22, 2020
+##### 
+
+**Today's Progress**: skipped day :(
+
+**Thoughts:** I need to stay consistent and do this every day. I'm not going to give up.
+
+### Day 7: August 23, 2020
+##### 
+
+**Today's Progress**: exercism - javascript
+
+**Thoughts:** Picking this back up after a few months
+
+**Link to work:** 
+https://github.com/crackmac/exercism-projects
+https://exercism.io/tracks/javascript/exercises/rna-transcription/solutions/f4bb9695eab94322856b72d146dcf3f5
+
+### Day 8: August 24, 2020
+##### 
+
+**Today's Progress**: exercism - javascript
+
 **Thoughts:** 
 
 **Link to work:** 
+https://github.com/crackmac/exercism-projects
+https://exercism.io/tracks/javascript/exercises/space-age/solutions/bfd9d8ec4ad34ded9fd96e4c0f73ad4a
