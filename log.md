@@ -79,3 +79,14 @@ https://exercism.io/tracks/javascript/exercises/rna-transcription/solutions/f4bb
 **Link to work:** 
 https://github.com/crackmac/exercism-projects
 https://exercism.io/tracks/javascript/exercises/space-age/solutions/bfd9d8ec4ad34ded9fd96e4c0f73ad4a
+
+### Day 9: August 25, 2020
+##### 
+
+**Today's Progress**: exercism - javascript
+
+**Thoughts:** I know I'm not suppose to include tutorials or practice coding but it is what it is.
+
+**Link to work:** 
+https://github.com/crackmac/exercism-projects
+Pangram - https://exercism.io/my/solutions/268c9bbe8f0e493bb78bc027e22434e7
