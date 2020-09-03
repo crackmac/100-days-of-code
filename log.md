@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: September 2, 2020
+#####
+
+**Today's Progress:** Doing some forensics work on some suspicious files for a friend. Used kali Linux, the stego-toolkit and followed along with an excellent how to (see links). 
+
+**Thoughts:** It's fun to learn new techniques and try to reverse engineer some of these exploits. 
+
+**Links of interest:**
+
+- This article "Steganography-101": https://pequalsnp-team.github.io/cheatsheet/steganography-101
+- This collection of tools, "stego-toolkit": https://github.com/blackhatethicalhacking/stego-toolkit
+
 ### Day 13: August 31, 2020
 ##### 
 
