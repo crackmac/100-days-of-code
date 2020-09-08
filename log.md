@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 16: September 7, 2020
+##### 
+
+**Today's Progress**:
+
+- exercism - javascript
+
+### Day 15: September 6, 2020
+##### 
+
+**Today's Progress**:
+
+- exercism - javascript
+
 ### Day 14: September 2, 2020
 #####
 
