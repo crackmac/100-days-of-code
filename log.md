@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 19: September 11, 2020
+##### 
+
+**Today's Progress**:
+
+- Alexa Skills Challenge for Alexa Conversations - Only 4 days until deadline
+- Trying to use Go to replace a bash script. So hard to even copy a directory. :()
+
+### Day 18: September 9, 2020
+##### 
+
+**Today's Progress**:
+
+- Alexa Skills Challenge for Alexa Conversations - Finally found the setting to enable the Dialog manager!
+
+### Day 17: September 9, 2020
+##### 
+
+**Today's Progress**:
+
+- Alexa Skills Challenge for Alexa Conversations - still debugging why my dialog is not being used. 
+
 ### Day 16: September 7, 2020
 ##### 
 
